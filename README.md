@@ -18,10 +18,6 @@ This bot is currently **outdated and non-functional** due to the following reaso
 2. **YouTube Data API Restrictions** – Changes in YouTube's API policies have affected third-party applications, making direct YouTube streaming more difficult.
 3. **ytdl-core-discord Deprecation** – The `ytdl-core-discord` library, used for audio streaming, is no longer actively maintained and has compatibility issues with Discord's latest voice updates.
 
-## Repository
-
-This repository remains available for reference purposes, but active development has stopped. Feel free to fork and update it if you'd like to modernize the bot.
-
 
 
 ## How It Worked (Before Becoming Outdated)
@@ -40,4 +36,8 @@ When it was functional, the bot could:
 - `!playlist <playlist name or YouTube URL>` – Searches for a playlist and adds all videos to the queue.
 - Automatically moved to the next song in the queue once the current one finished.
 
+
+## Future Development
+
+This repository remains available for reference purposes, but active development has stopped. Feel free to fork and update it if you'd like to modernize the bot.
 
