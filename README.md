@@ -19,3 +19,15 @@ This bot is currently **outdated and non-functional** due to the following reaso
 ## Repository
 
 This repository remains available for reference purposes, but active development has stopped. Feel free to fork and update it if you'd like to modernize the bot.
+
+
+
+## How It Worked (Before Becoming Outdated)
+
+When it was functional, the bot could:
+
+- Join a user's voice channel and play YouTube videos or playlists.
+- Allow users to queue multiple songs.
+- Fetch song and playlist information from YouTube using the YouTube Data API.
+- Stream high-quality audio using `ytdl-core-discord`.
+
