@@ -16,3 +16,6 @@ This bot is currently **outdated and non-functional** due to the following reaso
 3. **ytdl-core-discord Deprecation** – The `ytdl-core-discord` library, used for audio streaming, is no longer actively maintaine
 
 
+## Repository
+
+This repository remains available for reference purposes, but active development has stopped. Feel free to fork and update it if you'd like to modernize the bot.
