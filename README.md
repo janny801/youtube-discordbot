@@ -31,3 +31,11 @@ When it was functional, the bot could:
 - Fetch song and playlist information from YouTube using the YouTube Data API.
 - Stream high-quality audio using `ytdl-core-discord`.
 
+
+### Example Commands:
+
+- `!play <song name or YouTube URL>` – Searches for a song on YouTube and plays it in a voice channel.
+- `!playlist <playlist name or YouTube URL>` – Searches for a playlist and adds all videos to the queue.
+- Automatically moved to the next song in the queue once the current one finished.
+
+
