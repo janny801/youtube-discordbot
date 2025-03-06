@@ -46,9 +46,10 @@ A **Discord bot token** is a unique identifier used to authenticate a bot with D
 Tokens were required to initialize and run the bot using:
 
 ```js
-client.login(/*discord bot token*/);
-⚠️ Warning: Discord bot tokens should never be shared or exposed in public repositories. If leaked, anyone could control the bot. If a token is compromised, it should be regenerated in the Discord Developer Portal.
+client.login(/*discord bot token*/); 
 ```
+⚠️ Warning: Discord bot tokens should never be shared or exposed in public repositories. If leaked, anyone could control the bot. If a token is compromised, it should be regenerated in the Discord Developer Portal.
+
 
 
 ## Future Development
