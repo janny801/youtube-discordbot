@@ -34,7 +34,10 @@ When it was functional, the bot could:
 
 - `!play <song name or YouTube URL>` – Searches for a song on YouTube and plays it in a voice channel.
 - `!playlist <playlist name or YouTube URL>` – Searches for a playlist and adds all videos to the queue.
-- Automatically moved to the next song in the queue once the current one finished.
+- `!skip` – Skips the currently playing song and plays the next one in the queue.
+- `!stop` – Stops playback and clears the queue.
+- `!queue` – Displays the current queue of songs.
+- `!volume <1-10>` – Adjusts the playback volume.
 
 
 ## Future Development
