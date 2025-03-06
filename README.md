@@ -39,6 +39,10 @@ When it was functional, the bot could:
 - `!queue` – Displays the current queue of songs.
 - `!volume <1-10>` – Adjusts the playback volume.
 
+## Understanding Discord Bot Tokens
+
+A **Discord bot token** is a unique identifier used to authenticate a bot with Discord’s API.
+
 
 ## Future Development
 
